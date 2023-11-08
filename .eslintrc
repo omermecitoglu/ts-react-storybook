@@ -14,8 +14,7 @@
     "plugin:storybook/recommended"
   ],
   "ignorePatterns": [
-    "webpack.config.js",
-    "public/sw.js"
+    "webpack.config.js"
   ],
   "rules": {
     "sort-imports": ["error", { "ignoreDeclarationSort": true }],
